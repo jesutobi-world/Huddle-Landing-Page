@@ -43,7 +43,8 @@ main{
 }
 figure{
     width: 100%;
-    height: 200px;
+    min-height: 200px
+    height: 40vh;
     
 }
 figure img{
